@@ -80,7 +80,7 @@ TipidHome is designed for:
 The technologies used to develop TipidHome will depend on the project's implementation.
 
 - **Platform:** Mobile Application
-- **UI/UX Design:** To be specified
+- **UI/UX Design:** Figma
 - **Frontend:** To be specified
 - **Backend:** To be specified
 - **Database:** To be specified
